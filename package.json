@@ -1,0 +1,19 @@
+{
+  "name": "nightwatch-automation",
+  "version": "1.0.0",
+  "description": "playing with nightwatch automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphsmith80/nightwatch-automation.git"
+  },
+  "author": "Ralph Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ralphsmith80/nightwatch-automation/issues"
+  },
+  "homepage": "https://github.com/ralphsmith80/nightwatch-automation#readme"
+}
